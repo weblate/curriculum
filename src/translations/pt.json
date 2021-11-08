@@ -1,1 +1,16 @@
-{}
+{
+    "subjects": {
+        "HKK": "Estudos domésticos e de consumo",
+        "BL": "Arte",
+        "EN": "Inglês",
+        "MA": "Matemática",
+        "MU": "Música",
+        "BI": "Biologia",
+        "FY": "Física",
+        "GE": "Geografia",
+        "NO": "Estudos científicos",
+        "KE": "Química",
+        "SO": "Temas de estudos sociais",
+        "IDH": "Educação física e saúde"
+    }
+}
