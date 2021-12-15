@@ -1,3 +1,5 @@
+> ## ⚠️ DEPRECATED: Moved to the mono repo [kolplattformen/skolplattformen](https://github.com/kolplattformen/skolplattformen/tree/main/libs)
+
 # curriculum
 
 Translations of curriculum codes to clear text descriptions
