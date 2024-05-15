@@ -19,11 +19,76 @@
         "HKK": "Hauswirtschaft",
         "EN": "Englisch",
         "BL": "Kunst",
-        "TK": "Technik"
+        "TK": "Technik",
+        "DA": "vorbereitender Tanzunterricht",
+        "JU": "Judaistik",
+        "ES": "Ästhetik"
     },
     "misc": {
         "PRANDIUM": "Mittagspause",
         "LUNCH": "Mittagspause",
-        "RAST": "Pause"
+        "RAST": "Pause",
+        "MTID": "Zeit mit der Betreuungsperson"
+    },
+    "specialLanguages": {
+        "FR": "Französisch",
+        "IT": "Italienisch",
+        "TN": "Zeichensprache",
+        "JAP": "Japanisch",
+        "KI": "Chinesisch",
+        "SAM": "Samisch",
+        "SP": "Spanisch",
+        "EN": "Englisch",
+        "FI": "Finnisch",
+        "PO": "Portugisisch",
+        "RY": "Russisch",
+        "SV": "Schwedisch",
+        "SVA": "Schwedisch als Zweitsprache",
+        "TY": "Deutsch"
+    },
+    "traningsskolaSubjects": {
+        "VAA": "Alltägliche Aktivitäten",
+        "VEU": "Wahrnehmung",
+        "MOT": "Körperliche Koordination",
+        "KOM": "Kommunikation"
+    },
+    "languages": {
+        "MYA": "Burmesisch",
+        "ENG": "Englisch",
+        "FAO": "Färöisch",
+        "FIJ": "Fidji",
+        "FIN": "Finnisch",
+        "AFR": "Afrikaans",
+        "ARA": "Arabisch",
+        "SQI": "Albanisch",
+        "HYE": "Armenisch",
+        "VLS": "Flämisch",
+        "BOS": "Bosnisch",
+        "BUL": "Bulgarisch",
+        "FRA": "Französisch",
+        "DAN": "Dänisch",
+        "EST": "Estnisch",
+        "KAT": "Georgisch",
+        "GRE": "Griechisch",
+        "DEU": "Deutsch",
+        "UIG": "Uighurisch",
+        "UKR": "Ukrainisch",
+        "HUN": "Ungarisch",
+        "URD": "Urdu",
+        "UZB": "Usbekisch",
+        "VIE": "Vietnamesisch",
+        "YOR": "Yoruba, Yariba, Yooba",
+        "SPK": "Andere Sprache",
+        "ACE": "Achinesisch"
+    },
+    "categories": {
+        "trainingSchool": "Obligatorische Schule für Kinder mit schweren Lernbehinderungen",
+        "unknown": "Unbekannt",
+        "modernLanguages": "Moderne Sprachen",
+        "modernLanguagesA1": "CEFR min. A1+",
+        "modernLanguagesA2": "CEFR min. A2",
+        "modernLanguagesAlt": "Alternative moderne Sprache, CERF min. A2",
+        "motherTounge": "Muttersprachlicher Unterricht",
+        "misc": "Sonstiges"
     }
 }
